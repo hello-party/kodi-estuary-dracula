@@ -8,8 +8,8 @@
 	<color name="bg_overlay">FF282a36</color>
 	<color name="black">FFF05F05</color>
 	<color name="white">FFf8f8f2</color>
-	<color name="grey">FF8be9fd</color>
-	<color name="blue">FF44475a</color>
+	<color name="grey">FF44475a</color>
+	<color name="blue">FF8be9fd</color>
 	<color name="red">FFff5555</color>
 	<color name="button_focus">FF44475a</color>
 	<color name="text_shadow">22000000</color>
