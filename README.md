@@ -1,4 +1,4 @@
-#Dracula Theme for Estuary (Kodi 18)
+Dracula Theme for Estuary (Kodi 18)
 
 1. Save this to `C:\Program Files\Kodi\addons\skin.estuary\colors\`
 2. In Kodi, go to `Settings > Interface > Colors` and select `Dracula`
