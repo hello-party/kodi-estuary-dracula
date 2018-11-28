@@ -12,7 +12,6 @@
 	<color name="blue">FF8be9fd</color>
 	<color name="red">FFff5555</color>
 	<color name="button_focus">FF44475a</color>
-	<color name="text_shadow">22000000</color>
 	<color name="border_alpha">60FFFFFF</color>
 	<color name="disabled">33f8f8f2</color>
 	<color name="selected">FFFF5555</color>
