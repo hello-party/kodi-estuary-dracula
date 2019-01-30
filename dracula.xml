@@ -6,7 +6,7 @@
 	<color name="background">FF282a36</color>
 	<color name="bg_image">FF6272a4</color>
 	<color name="bg_overlay">FF282a36</color>
-	<color name="black">FFF05F05</color>
+	<color name="black">000000</color>
 	<color name="white">FFf8f8f2</color>
 	<color name="grey">FF44475a</color>
 	<color name="blue">FF8be9fd</color>
